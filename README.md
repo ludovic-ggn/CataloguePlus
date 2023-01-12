@@ -9,3 +9,5 @@
    - [Reservation Management](#-reservationmanagement)
    - [Subscriber Management](#-subscribermanagement)
    - [Website Management](#-websitemanagement)
+ - [Supported Languages](#supportedlanguages)
+ - [Installation Instructions](#installation)
