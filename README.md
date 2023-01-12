@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/doc/capture%20cataloge%20et%20espace%20admin.png?token=GHSAT0AAAAAAB5FYELINLI52NFO2UQPQQEEY574NOQ)
 ## Table Of Contents
  - [Functionality](#Functionality)
-   - [Catalog Management](#-CatalogManagement)
+   - [Catalog Management](#-Catalog-Management)
    - [Loan - Return](#-loanreturn)
    - [Delay Management](#-delaymanagement)
    - [Reservation Management](#-reservationmanagement)
