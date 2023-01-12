@@ -4,7 +4,7 @@
 ## Table Of Contents
  - [Functionality](#Functionality)
    - [Catalog Management](#-Catalog-Management)
-   - [Loan - Return](#-loanreturn)
+   - [Borrow - Return](#-loanreturn)
    - [Delay Management](#-delaymanagement)
    - [Reservation Management](#-reservationmanagement)
    - [Subscriber Management](#-subscribermanagement)
@@ -17,3 +17,5 @@ Here are the features of CataloguePlus
 ![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/doc/catalog.png?token=GHSAT0AAAAAAB5FYELI4IKYPTHV2TZ6MOFOY576KKQ)
 CatalogPlus allows you to keep track of your books at all times
 ### Loan - Retourn
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/doc/catalog.png?token=GHSAT0AAAAAAB5FYELI4IKYPTHV2TZ6MOFOY576KKQ)
+A simple interface lets you track borrowings and returns
