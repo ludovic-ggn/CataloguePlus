@@ -16,3 +16,4 @@ Here are the features of CataloguePlus
 ### Catalog Management
 ![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/doc/catalog.png?token=GHSAT0AAAAAAB5FYELI4IKYPTHV2TZ6MOFOY576KKQ)
 CatalogPlus allows you to keep track of your books at all times
+### Loan - Retourn
