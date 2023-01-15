@@ -12,6 +12,7 @@ Image a rajouter des deux interfaces
    - [Website Management](#-websitemanagement)
  - [Supported Languages](#supportedlanguages)
  - [Installation Instructions](#installation)
+ - [Contact Me] (#Contact-Me)
 ## Functionality
 Here are the features of CataloguePlus
 ### Catalog Management
@@ -48,3 +49,6 @@ Complete the following information : $db1 DB_Server DB_Username DB_PASSWORD DB_N
 Complete all the requested information and press the install button
 ### Third steps
 Once the end of installation page opens follow the instructions
+## Contact Me
+I am a French student passionate about development and networks
+You can contact me by email at: ludovic.gougeon@ik.me
