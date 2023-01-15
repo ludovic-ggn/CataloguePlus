@@ -44,4 +44,7 @@ The installation of CataloguePlus is very simple
 ### Step one, Open config.php file
 Image du fichier config.php a rajouter
 Complete the following information : DB_Server DB_Username DB_PASSWORD DB_NAME
-### Second step
+### Second step, With your internet browser open the install.php file
+Complete all the requested information and press the install button
+### Third steps
+Once the end of installation page opens follow the instructions
