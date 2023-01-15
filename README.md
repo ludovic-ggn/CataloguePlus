@@ -23,3 +23,19 @@ A simple interface lets you track borrowings and returns
 ### Delay Management
 Image a rajouter sur la gestion des retards
 Quickly see which documents are overdue and send reminder emails
+### Reservation Management
+Image a rejouter sur la gestion des reservations
+Subscribers can simply reserve a document from the online catalog or in the library
+### Serials Management
+Image a rajouter sur les publications en série
+If you have serial publications you can add them to the catalog in a few clicks
+### Subscriber Management
+Image a rajouter sur la gestion des abonées
+You can manage your subscribers
+### Website Management
+Image Gestion du site a rajouter
+The online public catalog is customizable, you can add timetables or your contact information as well as news
+## Supported Languages
+In case of translation errors you can inform me by email to correct the error
+### French
+### English
