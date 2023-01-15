@@ -1,5 +1,5 @@
 # CataloguePlus
-**CatalogPlus is a library management software (SIGB) with Online Public Access Catalog (OPAC)**
+**CataloguePlus is a library management software (SIGB) with Online Public Access Catalog (OPAC)**
 Image a rajouter des deux interfaces
 ## Table Of Contents
  - [Functionality](#Functionality)
@@ -17,7 +17,7 @@ Image a rajouter des deux interfaces
 Here are the features of CataloguePlus
 ### Catalog Management
 Image a rajouter gestion du catalogue
-CatalogPlus allows you to keep track of your books at all times
+CataloguePlus allows you to keep track of your books at all times
 ### Borrow - Retourn
 Image a rajouter sur la gestion des pret retour
 A simple interface lets you track borrowings and returns
