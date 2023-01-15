@@ -10,7 +10,7 @@ Image a rajouter des deux interfaces
    - [Serials Management](#-serialmanagement)
    - [Subscriber Management](#-subscribermanagement)
    - [Website Management](#-websitemanagement)
- - [Supported Languages](#supportedlanguages)
+ - [Supported Languages](#Supported-Languages)
  - [Installation Instructions](#Installation-Instructions)
  - [Contact Me](#Contact-Me)
 ## Functionality
