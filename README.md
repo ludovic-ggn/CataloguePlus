@@ -11,7 +11,7 @@ Image a rajouter des deux interfaces
    - [Subscriber Management](#-subscribermanagement)
    - [Website Management](#-websitemanagement)
  - [Supported Languages](#supportedlanguages)
- - [Installation Instructions](#installation)
+ - [Installation Instructions](#Installation-Instructions)
  - [Contact Me](#Contact-Me)
 ## Functionality
 Here are the features of CataloguePlus
