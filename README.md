@@ -12,7 +12,7 @@ Image a rajouter des deux interfaces
    - [Website Management](#-websitemanagement)
  - [Supported Languages](#supportedlanguages)
  - [Installation Instructions](#installation)
- - [Contact Me] (#Contact-Me)
+ - [Contact Me](#Contact-Me)
 ## Functionality
 Here are the features of CataloguePlus
 ### Catalog Management
