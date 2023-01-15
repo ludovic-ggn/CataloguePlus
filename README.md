@@ -37,5 +37,11 @@ Image Gestion du site a rajouter
 The online public catalog is customizable, you can add timetables or your contact information as well as news
 ## Supported Languages
 In case of translation errors you can inform me by email to correct the error
-### French
-### English
+#### French
+#### English
+## Installation Instructions
+The installation of CataloguePlus is very simple
+### Step one, Open config.php file
+Image du fichier config.php a rajouter
+Complete the following information : DB_Server DB_Username DB_PASSWORD DB_NAME
+### Second step
