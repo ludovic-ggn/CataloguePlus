@@ -1,12 +1,13 @@
 # CataloguePlus
 **CatalogPlus is a library management software (SIGB) with Online Public Access Catalog (OPAC)**
-![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/doc/capture%20cataloge%20et%20espace%20admin.png?token=GHSAT0AAAAAAB5FYELINLI52NFO2UQPQQEEY574NOQ)
+Image a rajouter des deux interfaces
 ## Table Of Contents
  - [Functionality](#Functionality)
    - [Catalog Management](#-Catalog-Management)
    - [Borrow - Return](#-loanreturn)
    - [Delay Management](#-delaymanagement)
    - [Reservation Management](#-reservationmanagement)
+   - [Serials Management](#-serialmanagement)
    - [Subscriber Management](#-subscribermanagement)
    - [Website Management](#-websitemanagement)
  - [Supported Languages](#supportedlanguages)
@@ -14,8 +15,11 @@
 ## Functionality
 Here are the features of CataloguePlus
 ### Catalog Management
-![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/doc/catalog.png?token=GHSAT0AAAAAAB5FYELI4IKYPTHV2TZ6MOFOY576KKQ)
+Image a rajouter gestion du catalogue
 CatalogPlus allows you to keep track of your books at all times
-### Loan - Retourn
-![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/doc/catalog.png?token=GHSAT0AAAAAAB5FYELI4IKYPTHV2TZ6MOFOY576KKQ)
+### Borrow - Retourn
+Image a rajouter sur la gestion des pret retour
 A simple interface lets you track borrowings and returns
+### Delay Management
+Image a rajouter sur la gestion des retards
+Quickly see which documents are overdue and send reminder emails
