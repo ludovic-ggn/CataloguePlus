@@ -10,6 +10,8 @@ Image a rajouter des deux interfaces
    - [Serials Management](#-serialmanagement)
    - [Subscriber Management](#-subscribermanagement)
    - [Website Management](#-websitemanagement)
+   - [Purchase Suggestions](#-purchasesuggestions)
+   - [Import Export](#-importexport)
  - [Supported Languages](#Supported-Languages)
  - [Installation Instructions](#Installation-Instructions)
  - [Contact Me](#Contact-Me)
@@ -36,6 +38,12 @@ You can manage your subscribers
 ### Website Management
 Image Gestion du site a rajouter
 The online public catalog is customizable, you can add timetables or your contact information as well as news
+### Purchase Suggestions
+Image Gestion Purchase suggestions a rajouter
+You can save subscribers' purchase suggestions
+### Import Export
+Image Gestion du Import Export a rajouter
+You can easily import or export data
 ## Supported Languages
 In case of translation errors you can inform me by email to correct the error
 #### French
