@@ -64,4 +64,6 @@ The portal allows your subscribers to find out about your schedules, your news, 
 documents.
 It also allows them to see their current loans or if their reservation is available …
 ![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/portail%20mon%20compte.png)
-# Page in construction
+## Contact Us
+If you encounter a problem or if you need assistance, you can contact me by email at the following 
+address: contact@ludoggn.simplelogin.com
