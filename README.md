@@ -59,4 +59,10 @@ with access to CataloguePlus
 ![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/Import%20Export.png)
 With CataloguePlus you can import or export all the data of your choice delays, loans, reservations 
 and the list does not stop there…
+## Presentation of the online portal
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/portail%20general.png)
+The portal allows your subscribers to find out about your schedules, your news, the availability of 
+documents.
+It also allows them to see their current loans or if their reservation is available …
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/portail%20mon%20compte.png)
 # Page in construction
