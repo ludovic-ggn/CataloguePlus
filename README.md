@@ -3,7 +3,7 @@
 Image a rajouter des deux interfaces
 ## Table Of Contents
  - [Functionality](#Functionality)
-   - [Catalog Management](#-Catalog-Management)
+   - [Catalog Management]
    - [Borrow - Return](#-loanreturn)
    - [Delay Management](#-delaymanagement)
    - [Reservation Management](#-reservationmanagement)
