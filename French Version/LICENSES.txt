@@ -1,0 +1,9 @@
+
+This software is licensed under the Creative Commons Attribution 4.0 International License.
+
+This software is provided AS IS without ANY warranty.
+
+Please note that this software uses the following two software for its graphical interface:
+- Black Dashboard (Admin Interface)
+- MultiShop (Online Portal Interface)
+The licenses for these two programs are present in the main CataloguePlus folder.
