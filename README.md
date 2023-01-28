@@ -25,4 +25,8 @@ You can duplicate existing documents to avoid having to re-enter them multiple t
 ### Loan and Return
 ![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/pret%20et%20retour.png)
 A simple and fast interface allows you to manage loans and returns with a few clicks.
+### Overdue Management
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/gestion%20des%20retards.png)
+With CataloguePlus, you can easily view overdue documents and you can edit pre-filled reminder 
+letters.
 # Page in construction
