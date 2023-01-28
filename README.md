@@ -13,7 +13,6 @@
    - [Purchase Suggestions](#-PurchaseSuggestions)
    - [Import Export](#-importexport)
  - [Presentation of the online portal](#Presentationoftheonlineportal)
- - [Installation](#Installation)
  - [Contact Us](#Contact-Us)
 ## Features
 Here are the features of CataloguePlus
