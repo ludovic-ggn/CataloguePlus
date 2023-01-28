@@ -15,8 +15,11 @@
  - [Presentation of the online portal](#Presentationoftheonlineportal)
  - [Installation](#Installation)
  - [Contact Us](#Contact-Us)
-## Functionality
+## Features
 Here are the features of CataloguePlus
 ### Catalog Management
-Image a rajouter gestion du catalogue
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/catalogue.png)
+With CataloguePlus, you can easily find your documents and know their status at any time 
+(borrowed, reserved …)
+You can duplicate existing documents to avoid having to re-enter them multiple times.
 
