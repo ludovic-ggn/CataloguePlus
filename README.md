@@ -50,4 +50,13 @@ complicated password or username to remember.
 The online portal is very easily customizable.
 You can display your schedules or news from the library.
 All this can be modified from the Portal Management interface
+### Purchase Suggestions
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/suggestions%20d'achat.png)
+Finish the wish list on a piece of paper
+CataloguePlus allows you to record document purchase desires and find them from any computer 
+with access to CataloguePlus
+### Import Export
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/Import%20Export.png)
+With CataloguePlus you can import or export all the data of your choice delays, loans, reservations 
+and the list does not stop there…
 # Page in construction
