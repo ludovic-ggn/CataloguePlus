@@ -29,4 +29,11 @@ A simple and fast interface allows you to manage loans and returns with a few cl
 ![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/gestion%20des%20retards.png)
 With CataloguePlus, you can easily view overdue documents and you can edit pre-filled reminder 
 letters.
+### Reservation Management
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/Reservations.png)
+CataloguePlus automatically tells you which documents to set aside.
+There is no need to check if it is reserved or not.
+The subscriber can reserve the document from the online portal.
+Once the reserved document is available, the subscriber is informed from their subscriber area on 
+the online portal
 # Page in construction
