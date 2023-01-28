@@ -22,4 +22,7 @@ Here are the features of CataloguePlus
 With CataloguePlus, you can easily find your documents and know their status at any time 
 (borrowed, reserved …)
 You can duplicate existing documents to avoid having to re-enter them multiple times.
+### Loan and Return
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/pret%20et%20retour.png)
+A simple and fast interface allows you to manage loans and returns with a few clicks.
 # Page in construction
