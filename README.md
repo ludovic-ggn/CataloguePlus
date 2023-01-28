@@ -36,4 +36,13 @@ There is no need to check if it is reserved or not.
 The subscriber can reserve the document from the online portal.
 Once the reserved document is available, the subscriber is informed from their subscriber area on 
 the online portal
+### Periodical Management
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/gestion%20des%20periodiques.png)
+With the periodical management feature, you can manage your current subscriptions and easily add 
+new issues to the catalogue.
+### Subscriber Management
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/gestion%20des%20abonn%C3%A9s.png)
+CataloguePlus automatically assigns a card number to the subscriber
+This card number makes it easy to identify yourself on the library portal without having a 
+complicated password or username to remember.
 # Page in construction
