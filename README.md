@@ -45,4 +45,9 @@ new issues to the catalogue.
 CataloguePlus automatically assigns a card number to the subscriber
 This card number makes it easy to identify yourself on the library portal without having a 
 complicated password or username to remember.
+### Online Portal Management
+![](https://raw.githubusercontent.com/ludovic-ggn/CataloguePlus/main/Project%20picture/gestion%20du%20portail.png)
+The online portal is very easily customizable.
+You can display your schedules or news from the library.
+All this can be modified from the Portal Management interface
 # Page in construction
